@@ -74,7 +74,7 @@ table1 %>%
 ![](hw004-MeiqiYu_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
 From the graph above, it’s clear that Canada has a higher life
-expectancy over Italy except in 1997 and 2002.And the difference between
+expectancy over Italy except in 1997 and 2002. And the difference between
 the life expectancies of these two countries is going to be smaller and
 smaller.
 
