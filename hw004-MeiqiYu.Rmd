@@ -165,6 +165,7 @@ gapminder %>%
   kable()
 
 ```
+
 * `anti_join(x,y)` return all rows from x which do not have matching values in y.
 The final table contains 97 rows.
 
